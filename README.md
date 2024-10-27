@@ -12,12 +12,13 @@ Things that I love in an application/tool:
 - 🔧 Robust and reliable performance
 - ✨ Useful features and tools
 - ⚡ Snappy and simple interface
-- ☕ Coffee
 
 Things that I absolutely hate:
 - 📜 Reading large T&C
-- 🤯 Too much unnecessary complications in an application
-- 🍵 Tea
+- 🤯 Too much unnecessary complications in an application.
+- 🤯 Calling every simple thing as "AI" or "ML"
+
+
 ## Languages I am fluent in
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50"/>
@@ -44,6 +45,12 @@ Things that I absolutely hate:
         <img src="https://cdn-icons-png.flaticon.com/512/609/609803.png" alt="Website" width="40" height="40">
     </a>
 </p>
+
+## Stuff that I love
+- 🚗 Automobiles 
+- ✈️ Aircrafts 
+- 🤖 Robots
+
 
 ## Things that I do apart from coding
 - 🥁 Drumming
